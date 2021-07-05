@@ -6,3 +6,4 @@
 - `parrondo_paradox`: a realisation of the [Parrondo's Paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox) in Python.
 - `snakesAndLadders`: a simple game of Snakes and Ladders in Swift (iPhone).
 - `tkinter_bootcamp`: codes from [freeCodeCamp.org Tkinter Course on YouTube](https://www.youtube.com/watch?v=YXPyB4XeYLA).
+- `makefiles_tutorial`: codes from [Barry Brown makefile tutorial on YouTube](https://www.youtube.com/watch?v=GExnnTaBELk).
